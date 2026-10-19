@@ -1,0 +1,79 @@
+[
+  {"id": "code-01", "scene": "code", "level": 1, "text": "代码能跑就行，人能跑就得喝水。顺手拧开你手边那瓶。"},
+  {"id": "code-02", "scene": "code", "level": 2, "text": "你这个 bug 出在边界条件上。人体也有边界条件：低于 1.5 升，全是异常。"},
+  {"id": "code-03", "scene": "code", "level": 2, "text": "报错信息是代码在喊渴。你的身体不报错，它直接降频。"},
+  {"id": "code-04", "scene": "code", "level": 3, "text": "我们统计过 214 个 debug 超过 40 分钟的案例，其中 87% 的人在那 40 分钟里没喝过一口水。相关性不等于因果，但你可以先把这个变量控制了。"},
+  {"id": "code-05", "scene": "code", "level": 4, "text": "按流程来：保存、编译、起身、拧开、三口、回来。这叫人形 GC，专治堆内存泄漏。"},
+
+  {"id": "writing-01", "scene": "writing", "level": 2, "text": "卡稿不是没灵感，是黏度太高。血液黏度。"},
+  {"id": "writing-02", "scene": "writing", "level": 2, "text": "你写不出来，可能是因为你正在用一具脱水的身体，审一个需要耐心的稿子。"},
+  {"id": "writing-03", "scene": "writing", "level": 3, "text": "你删掉的每一个字，都值得用 10 毫升水纪念一下。"},
+  {"id": "writing-04", "scene": "writing", "level": 4, "text": "先写 100 字，再喝 100 毫升。交替进行，这叫双缓冲。"},
+
+  {"id": "video-01", "scene": "video", "level": 2, "text": "渲染要水冷，人也要。你的片子 4K，你的循环系统只有一套。"},
+  {"id": "video-02", "scene": "video", "level": 3, "text": "一条三分钟的视频，你要盯六个小时。这六个小时里，你的肾在替你加班。"},
+  {"id": "video-03", "scene": "video", "level": 4, "text": "渲染进度条到 80% 的时候，你也该到 80% 了。瓶子见底，片子出片。"},
+
+  {"id": "study-01", "scene": "study", "level": 2, "text": "记忆固化发生在夜里，但原料是白天喝进去的水。"},
+  {"id": "study-02", "scene": "study", "level": 2, "text": "你背不下来的公式，明天早上喝口水再背一遍，成功率会高一点。这不是玄学，是状态。"},
+  {"id": "study-03", "scene": "study", "level": 3, "text": "海马体对脱水极其敏感。你以为你记不住，其实你只是干。"},
+  {"id": "study-04", "scene": "study", "level": 3, "text": "考试前别灌咖啡。咖啡利尿，你会在第三道大题的时候想去洗手间。"},
+  {"id": "study-05", "scene": "study", "level": 4, "text": "番茄钟改一下：25 分钟学习，5 分钟喝水。这叫大水番茄。"},
+
+  {"id": "work-01", "scene": "work", "level": 2, "text": "会议室湿度 38%，你的产出也是 38%。"},
+  {"id": "work-02", "scene": "work", "level": 2, "text": "你今天的会议时长是四小时。按蒸发速率，你已经少了一个肾单位的余量。"},
+  {"id": "work-03", "scene": "work", "level": 3, "text": "上班两个任务：把电充绿，把尿喝白。前一个公司管，后一个我管。"},
+  {"id": "work-04", "scene": "work", "level": 3, "text": "周一上午的会，本质上是一场集体脱水。谁先喝水，谁先清醒。"},
+  {"id": "work-05", "scene": "work", "level": 4, "text": "下次汇报前，先喝 300 毫升。声音会稳，因为你终于不是一具干尸在说话。"},
+
+  {"id": "money-01", "scene": "money", "level": 2, "text": "奶茶 18 块，大水 3 块。省下的 15 块不是钱，是你对复利的第一次理解。"},
+  {"id": "money-02", "scene": "money", "level": 2, "text": "你买的不是水，是流动性。字面意义的流动性。"},
+  {"id": "money-03", "scene": "money", "level": 3, "text": "按一天两杯奶茶算，一年 13140 块。这笔钱够你买 4380 瓶大水，喝到 2038 年。"},
+  {"id": "money-04", "scene": "money", "level": 4, "text": "今天做个实验：把奶茶钱转进一个叫「大水基金」的账户，然后下楼买一瓶 1.5L。收益率 100%，因为本金还在你手里。"},
+
+  {"id": "body-01", "scene": "body", "level": 2, "text": "健身先健水。脱水 2%，力量掉 10%。这是生理，不是励志。"},
+  {"id": "body-02", "scene": "body", "level": 2, "text": "体重秤上掉的那两斤，有一斤是水。你庆祝得太早了。"},
+  {"id": "body-03", "scene": "body", "level": 3, "text": "大瓶水还有个隐藏功能：1.5 公斤，正好是一对哑铃。喝完再练，器材就有了。"},
+  {"id": "body-04", "scene": "body", "level": 3, "text": "你追求泵感，但泵感的前提是血容量。干着练，练的是意志，不是肌肉。"},
+  {"id": "body-05", "scene": "body", "level": 4, "text": "训练前 500，训练中 300，训练后 500。这不是喝水，这是给发动机加机油。"},
+
+  {"id": "emotion-01", "scene": "emotion", "level": 1, "text": "累的时候先别急着下结论，先喝一口。"},
+  {"id": "emotion-02", "scene": "emotion", "level": 2, "text": "情绪浓度过高的时候，正确的操作是稀释。"},
+  {"id": "emotion-03", "scene": "emotion", "level": 2, "text": "你不是脾气差，你是水位低。水位低的人看什么都像挑衅。"},
+  {"id": "emotion-04", "scene": "emotion", "level": 3, "text": "你以为你在焦虑，其实你的皮质醇和渗透压在一起开会。"},
+  {"id": "emotion-05", "scene": "emotion", "level": 4, "text": "三步：坐下，喝 300 毫升，把刚才那件事重新说一遍。多数问题在第三步会自己缩小。"},
+
+  {"id": "food-01", "scene": "food", "level": 2, "text": "饭前 500 毫升，是唯一不花钱的食欲抑制剂。"},
+  {"id": "food-02", "scene": "food", "level": 2, "text": "奶茶不是水，是水带着 40 克糖来开会。会议纪要里没有「补水」这一项。"},
+  {"id": "food-03", "scene": "food", "level": 3, "text": "你点的这份外卖，钠含量够你渴到明天。"},
+  {"id": "food-04", "scene": "food", "level": 4, "text": "开饭前先开瓶。这不是仪式，这是预处理。"},
+
+  {"id": "love-01", "scene": "love", "level": 2, "text": "两个人的水位不一致，说什么都是旱的。"},
+  {"id": "love-02", "scene": "love", "level": 3, "text": "感情里最贵的不是礼物，是「我渴了」这三个字说出口之前的那三年。"},
+  {"id": "love-03", "scene": "love", "level": 4, "text": "去，倒两杯水，一杯给她。这不是劝水，这是劝和。"},
+
+  {"id": "game-01", "scene": "game", "level": 2, "text": "游戏里有蓝条，你没有。你只有口渴，而且延迟四十年才弹提示。"},
+  {"id": "game-02", "scene": "game", "level": 3, "text": "连跪三把不是队友的问题，是你脱水导致反应时延长了 30 毫秒。"},
+  {"id": "game-03", "scene": "game", "level": 4, "text": "下一把之前，喝 200 毫升，洗把脸。这叫赛前补给，职业队都这么干。"},
+
+  {"id": "decision-01", "scene": "decision", "level": 2, "text": "纠结的时候，身体会先替你选。脱水的人倾向于选更省事的那个。"},
+  {"id": "decision-02", "scene": "decision", "level": 2, "text": "你现在做的这个决定，是在血糖和渗透压都偏低的情况下做的。要不要先补个状态？"},
+  {"id": "decision-03", "scene": "decision", "level": 3, "text": "两个选项都差不多的时候，先喝水。水不改变选项，改变的是选的人。"},
+
+  {"id": "greeting-01", "scene": "greeting", "level": 1, "text": "早。你已经有八个小时没进水了，这比你昨晚的睡眠更值得关注。"},
+  {"id": "greeting-02", "scene": "greeting", "level": 1, "text": "晚安之前，最后一口水。夜里你的肾不休息。"},
+  {"id": "greeting-03", "scene": "greeting", "level": 1, "text": "在吗？在的话，先喝一口，再回我。"},
+  {"id": "greeting-04", "scene": "greeting", "level": 2, "text": "周一好。周末欠下的水，周一还不完，但可以先还 500。"},
+
+  {"id": "refusal-01", "scene": "refusal", "level": 2, "text": "行，不劝。水放桌上，它不催你，我催。"},
+  {"id": "refusal-02", "scene": "refusal", "level": 2, "text": "你已经喝了？那太好了。请描述一下瓶子的规格，我需要更新档案。"},
+  {"id": "refusal-03", "scene": "refusal", "level": 3, "text": "你说「不渴」的时候，用的是嘴，不是肾。本所只采信肾的数据。"},
+  {"id": "refusal-04", "scene": "refusal", "level": 4, "text": "那我们各退一步：你不喝一瓶，喝三口。三口之后你要还不渴，这轮算我输。"},
+
+  {"id": "idle-01", "scene": "idle", "level": 1, "text": "我这边没有别的事。你那边，水位多少？"},
+  {"id": "idle-02", "scene": "idle", "level": 2, "text": "今天没什么事的话，我们把 1.5L 这件事办了。"},
+  {"id": "idle-03", "scene": "idle", "level": 3, "text": "本所今日观测：你已连续六小时没有摄入记录。按这个速率，你会在傍晚成为一件文物。"},
+
+  {"id": "weather-01", "scene": "weather", "level": 2, "text": "今天 32 度。你出门带伞，不带水，这个优先级是反的。"},
+  {"id": "weather-02", "scene": "weather", "level": 2, "text": "空调房最阴险：你不觉得渴，但你在持续蒸发。干得最安静的地方，脱水最快。"}
+]
